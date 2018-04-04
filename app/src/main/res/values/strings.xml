@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NanoPoolApp</string>
+    <string name="downloadData">Descargar Datos</string>
+</resources>
